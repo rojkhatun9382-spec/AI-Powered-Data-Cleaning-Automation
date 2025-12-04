@@ -1,0 +1,201 @@
+CustomerID,Age,Gender,Income,SpendingScore,CampaignResponse,JoinDate,City,MaritalStatus,Education,PurchaseFrequency,LastPurchaseDate,LoyaltyScore,EmailOpenRate,ClickThroughRate,MembershipTier,AnnualSpend,ReferralSource,MobileNumber,HasCreditCard,WebsiteVisitCount,AvgSessionDuration,ChurnRisk
+1,-5,female,30000,60,,,kolkata,,High School,3,,40,-0.2,,gold,80k,friend,0000000000,1,10,4.1,0.1
+2,,Male,70000,60,,,Kolkata,Married,PG,1,15-02-2022,10,0.3,0.2,,70000,Instagram,98-76-54,no,5,-1,
+3,28,,50k,,yes,,kolkata,Married,Post-Graduate,1,2021/11/10,10,0.7,,Platinum,-1000,friend,9876543210,1,20,,
+4,-5,female,-20000,80,no,,kolkata,single,Graduate,4,2021/11/10,10,-0.2,0.05,Gold,70000,friend,98-76-54,0,-3,-1,0.1
+5,35,M,60000,60,,12-11-2019,kolkata,single,,2,2021/11/10,10,,,gold,,Facebook,0000000000,no,,5.2,
+6,28,M,,20,no,2018-07-15,kolkata,Married,,4,15-02-2022,50,0.7,,Platinum,50000,google,12345,1,5,-1,0.8
+7,28,M,30000,20,yes,2020/03/22,,single,High School,3,,10,0.1,0.05,Silver,50000,friend,,yes,15,,1.2
+8,-5,M,,40,yes,2020/03/22,,Divorced,,4,15-02-2022,50,,0.3,Silver,50000,google,98-76-54,yes,10,5.2,1.2
+9,30,M,-20000,60,no,,Delhi,Married,PG,5,2021/11/10,50,0.5,,Platinum,70000,google,98-76-54,0,-3,3.5,0.1
+10,35,female,50k,80,0,,Mumbai,single,PG,1,15-02-2022,10,0.1,,Gold,70000,Instagram,9876543210,no,15,3.5,
+11,-5,female,50k,,1,2021-05-10,kolkata,Married,High School,1,15-02-2022,30,0.1,0.3,Silver,50000,google,9876543210,no,,,0.5
+12,35,F,-20000,,0,2018-07-15,Delhi,,PG,,15-02-2022,,0.5,,,70000,Facebook,98-76-54,no,5,-1,0.5
+13,35,Female,30000,80,0,12-11-2019,Mumbai,Single,Post-Graduate,,,20,-0.2,,Platinum,80k,,0000000000,0,,4.1,
+14,28,M,60000,70,0,2020/03/22,Banglore,Married,High School,3,2023-01-15,50,0.1,,Platinum,80k,,,no,5,,0.5
+15,,Male,45000,120,,2021-05-10,Kolkata,Single,Post-Graduate,5,2023-01-15,40,,0.1,Silver,70000,Google,9876543210,yes,20,5.2,0.1
+16,35,female,30000,40,yes,2021-05-10,,single,Graduate,2,15-02-2022,40,0.7,0.3,Gold,50000,friend,0000000000,1,10,5.2,0.1
+17,30,Male,45000,,0,2020/03/22,Banglore,Single,Post-Graduate,4,2023-01-15,,0.1,,,70000,Facebook,12345,yes,20,3.5,
+18,28,Male,-20000,60,yes,12-11-2019,Mumbai,Married,Graduate,3,2023-01-15,40,,0.3,Gold,70000,google,9876543210,yes,20,5.2,0.5
+19,30,Male,70000,40,no,2021-05-10,Banglore,,Graduate,,15-02-2022,30,0.3,0.2,gold,70000,,0000000000,1,,,0.1
+20,,F,45000,60,1,2021-05-10,Kolkata,single,Post-Graduate,4,15-02-2022,40,,0.2,gold,,Facebook,0000000000,yes,10,5.2,0.1
+21,30,female,60000,70,no,2018-07-15,Mumbai,Married,High School,,2021/11/10,20,0.7,,Silver,80k,,,0,5,,0.8
+22,30,Male,70000,20,no,12-11-2019,Banglore,single,PG,4,2023-01-15,20,,0.3,Silver,-1000,google,,1,5,4.1,0.8
+23,30,M,45000,40,,2021-05-10,,Divorced,PG,2,,50,0.5,0.3,Silver,-1000,,12345,yes,-3,3.5,0.1
+24,,,-20000,,1,12-11-2019,,Single,Graduate,3,15-02-2022,10,0.7,0.3,gold,,friend,0000000000,,15,5.2,
+25,28,Male,70000,40,no,2020/03/22,Delhi,Divorced,Graduate,4,2021/11/10,30,-0.2,0.1,Gold,70000,friend,0000000000,yes,-3,,1.2
+26,25,F,-20000,40,no,,Banglore,Married,High School,5,,50,0.3,0.2,Gold,,Google,,0,-3,-1,1.2
+27,,female,45000,40,1,2021-05-10,kolkata,,,1,2023-01-15,30,0.5,0.3,Silver,,Google,9876543210,no,5,3.5,0.1
+28,30,F,-20000,120,1,2018-07-15,Banglore,single,Post-Graduate,5,2021/11/10,10,-0.2,0.3,,50000,,9876543210,yes,,4.1,0.1
+29,30,Male,60000,40,no,2020/03/22,Mumbai,Single,Graduate,5,15-02-2022,40,,0.1,Gold,80k,Facebook,98-76-54,no,20,,0.1
+30,28,female,45000,60,1,12-11-2019,Mumbai,single,PG,1,,40,0.7,0.1,gold,-1000,friend,,,20,4.1,
+31,,,45000,20,no,2020/03/22,Banglore,Married,High School,5,15-02-2022,10,0.3,0.3,Platinum,70000,Facebook,98-76-54,yes,20,4.1,0.8
+32,25,Male,45000,70,no,2021-05-10,Kolkata,single,Post-Graduate,4,2023-01-15,50,0.5,0.05,Platinum,-1000,Facebook,,1,10,5.2,0.1
+33,25,F,30000,80,,12-11-2019,,Single,High School,4,,10,-0.2,0.3,Platinum,-1000,,12345,no,5,5.2,0.1
+34,35,Female,30000,40,0,,Mumbai,Married,Post-Graduate,4,2023-01-15,,-0.2,0.3,,80k,Facebook,0000000000,,,,0.5
+35,35,M,30000,,no,2020/03/22,,single,Post-Graduate,1,2023-01-15,20,0.3,0.1,Silver,-1000,friend,12345,1,10,-1,
+36,-5,F,60000,40,yes,2021-05-10,Mumbai,,Graduate,5,2021/11/10,50,,0.1,gold,-1000,google,,1,15,,0.1
+37,30,female,70000,,0,2018-07-15,Delhi,Married,High School,1,15-02-2022,30,0.3,0.3,,,Google,0000000000,1,,-1,0.5
+38,,Male,-20000,60,0,12-11-2019,kolkata,Married,High School,4,,,-0.2,0.3,gold,80k,google,9876543210,1,-3,4.1,1.2
+39,,M,50k,,0,2020/03/22,Mumbai,,PG,5,2023-01-15,50,0.1,0.3,gold,50000,Facebook,9876543210,yes,,3.5,0.1
+40,-5,Male,45000,80,,2020/03/22,,Divorced,PG,5,2023-01-15,10,0.5,0.1,Silver,70000,google,98-76-54,yes,,,0.1
+41,30,female,-20000,20,no,,Delhi,Single,Graduate,,,10,0.3,0.3,Platinum,-1000,friend,,yes,20,,0.5
+42,30,Male,45000,,,,Mumbai,Divorced,Graduate,,2023-01-15,10,-0.2,0.3,Silver,70000,friend,,,,-1,
+43,-5,Female,60000,,no,2018-07-15,Kolkata,single,,2,2021/11/10,10,,,,50000,Facebook,9876543210,,-3,4.1,0.1
+44,30,M,45000,20,,2018-07-15,kolkata,,PG,3,2021/11/10,30,-0.2,0.05,,70000,,12345,,-3,4.1,1.2
+45,35,M,30000,80,,2021-05-10,Mumbai,Divorced,Post-Graduate,,2021/11/10,,,0.2,,50000,google,0000000000,0,5,-1,0.1
+46,,female,50k,40,yes,2021-05-10,Delhi,Married,High School,1,2021/11/10,40,0.3,0.05,Silver,,,12345,,,4.1,1.2
+47,-5,Female,,,,2018-07-15,Kolkata,single,Graduate,,2023-01-15,20,,,gold,-1000,,12345,yes,20,5.2,0.8
+48,,F,45000,20,1,2018-07-15,Banglore,single,High School,2,,30,0.7,0.2,gold,50000,Instagram,9876543210,yes,,3.5,0.8
+49,25,Male,-20000,60,yes,12-11-2019,Delhi,Divorced,High School,5,,30,0.7,0.3,Gold,70000,Facebook,9876543210,0,15,,1.2
+50,35,,30000,20,,,Delhi,Divorced,,2,,40,0.7,,,-1000,Google,9876543210,0,15,3.5,
+51,28,Male,,60,0,2021-05-10,Kolkata,,PG,5,,40,0.1,0.3,gold,,friend,98-76-54,,20,,0.1
+52,35,Male,50k,80,1,,Delhi,Single,Graduate,5,15-02-2022,20,0.3,0.1,Gold,-1000,friend,12345,no,5,5.2,0.1
+53,-5,F,,40,1,,Kolkata,Divorced,High School,3,,20,-0.2,,gold,50000,Facebook,,0,5,4.1,0.8
+54,28,Male,30000,20,1,2018-07-15,Mumbai,Divorced,Graduate,,15-02-2022,40,-0.2,0.1,,,Google,0000000000,1,-3,-1,1.2
+55,25,Female,70000,70,yes,12-11-2019,Kolkata,Married,Post-Graduate,1,15-02-2022,10,0.1,,Platinum,70000,friend,98-76-54,yes,-3,5.2,0.1
+56,-5,Female,70000,70,,2020/03/22,Kolkata,single,,1,2021/11/10,30,,,,,Facebook,,1,10,3.5,0.1
+57,30,M,,120,,12-11-2019,kolkata,Single,Post-Graduate,4,15-02-2022,50,0.1,0.1,Silver,,friend,12345,yes,20,-1,
+58,,female,60000,,0,12-11-2019,Kolkata,Married,Graduate,5,2023-01-15,20,,0.2,gold,80k,,9876543210,yes,,4.1,0.5
+59,25,,-20000,80,0,,Kolkata,,Graduate,1,15-02-2022,20,,0.05,gold,,google,12345,0,20,5.2,0.8
+60,,Male,-20000,20,1,12-11-2019,Banglore,,PG,3,2021/11/10,40,0.5,0.3,Silver,,google,0000000000,0,10,-1,0.8
+61,30,Male,,70,0,2021-05-10,Mumbai,Divorced,High School,5,15-02-2022,,-0.2,,Silver,-1000,friend,98-76-54,1,-3,5.2,0.5
+62,30,F,45000,,yes,,kolkata,Divorced,High School,3,2023-01-15,50,0.7,0.3,Platinum,70000,Instagram,98-76-54,yes,20,5.2,0.1
+63,30,female,45000,70,,2021-05-10,Banglore,,Post-Graduate,1,2023-01-15,50,,0.1,gold,-1000,Google,0000000000,1,20,4.1,
+64,25,Female,-20000,20,1,2020/03/22,,Divorced,,1,2023-01-15,20,0.5,0.3,gold,-1000,Google,,no,-3,,
+65,30,,-20000,60,0,,Mumbai,Single,High School,4,2021/11/10,10,-0.2,0.1,Platinum,50000,Google,,1,10,-1,0.8
+66,28,M,70000,20,yes,2020/03/22,Mumbai,Divorced,PG,1,2021/11/10,,0.7,0.3,Gold,-1000,,98-76-54,,-3,4.1,
+67,30,Female,60000,120,yes,,,single,Post-Graduate,5,,50,,0.05,Platinum,80k,Google,98-76-54,1,5,5.2,0.5
+68,,female,30000,20,0,2018-07-15,Kolkata,Divorced,Post-Graduate,5,2021/11/10,20,,0.05,,80k,google,9876543210,,,4.1,0.1
+69,,M,45000,20,,12-11-2019,Banglore,Married,PG,5,2023-01-15,50,0.1,0.05,gold,50000,,,,-3,,0.5
+70,-5,F,-20000,120,0,2018-07-15,Delhi,Single,,4,2023-01-15,,0.1,0.05,Silver,70000,Facebook,0000000000,,10,-1,1.2
+71,,F,70000,80,1,2020/03/22,kolkata,Married,PG,4,2021/11/10,,-0.2,0.05,,70000,Google,,no,15,,0.8
+72,-5,Male,50k,20,0,12-11-2019,Delhi,Married,,1,15-02-2022,30,0.7,0.05,gold,-1000,Google,9876543210,1,5,3.5,
+73,,female,70000,120,yes,,,single,PG,2,2021/11/10,40,,0.1,Platinum,-1000,Facebook,98-76-54,1,15,-1,1.2
+74,28,,45000,,0,12-11-2019,Mumbai,Single,PG,2,2021/11/10,40,-0.2,,,-1000,Google,98-76-54,no,-3,,
+75,-5,M,45000,60,,2021-05-10,Mumbai,Single,Graduate,4,2023-01-15,20,-0.2,0.3,gold,70000,Facebook,9876543210,yes,5,5.2,0.1
+76,35,Female,70000,60,no,12-11-2019,kolkata,Single,Post-Graduate,1,,,0.3,0.05,Gold,,,0000000000,0,,-1,0.1
+77,30,female,30000,20,0,2021-05-10,Mumbai,Single,PG,2,2023-01-15,30,0.1,0.1,Gold,80k,google,98-76-54,1,-3,-1,0.1
+78,25,female,,80,,12-11-2019,Mumbai,Single,PG,1,,30,0.7,0.1,Silver,,Facebook,12345,0,,4.1,
+79,,F,45000,80,,2021-05-10,kolkata,single,High School,1,2023-01-15,50,,0.1,gold,,Instagram,98-76-54,no,20,5.2,1.2
+80,30,Male,70000,,yes,2020/03/22,Banglore,Divorced,Post-Graduate,1,2021/11/10,50,-0.2,,Gold,70000,Facebook,12345,yes,15,3.5,0.1
+81,,Male,-20000,20,,2018-07-15,Banglore,Married,High School,,2023-01-15,30,,0.3,Platinum,,Google,9876543210,yes,5,,1.2
+82,30,M,70000,60,,,kolkata,Single,Post-Graduate,5,2023-01-15,50,0.3,,gold,50000,,9876543210,yes,,4.1,
+83,30,F,60000,80,,12-11-2019,,Divorced,High School,1,2023-01-15,,0.7,0.2,Platinum,-1000,friend,98-76-54,no,10,,1.2
+84,30,female,,20,,2018-07-15,Mumbai,Divorced,PG,,2021/11/10,10,-0.2,0.1,Platinum,50000,,,,,3.5,
+85,30,,50k,70,1,,Mumbai,Married,PG,4,2021/11/10,,,0.2,Gold,80k,friend,12345,,10,3.5,
+86,30,F,30000,80,1,,,single,Graduate,2,2021/11/10,30,0.1,0.05,gold,-1000,Facebook,0000000000,0,-3,-1,0.8
+87,,M,50k,120,yes,2021-05-10,Banglore,,High School,5,2021/11/10,30,0.3,0.05,,,google,98-76-54,,5,3.5,
+88,30,M,,70,0,2020/03/22,Kolkata,,,2,,,0.7,,Gold,80k,Instagram,0000000000,,,,
+89,28,F,,80,,2020/03/22,Kolkata,Divorced,Graduate,5,,50,0.3,0.3,Gold,-1000,,98-76-54,yes,,5.2,0.5
+90,-5,M,,60,0,2018-07-15,Kolkata,Married,High School,2,15-02-2022,50,0.1,0.2,gold,,Google,,yes,5,5.2,0.1
+91,30,F,50k,40,0,2020/03/22,Banglore,,High School,5,2021/11/10,40,0.7,0.3,gold,50000,friend,,0,,-1,0.8
+92,30,Female,-20000,70,yes,12-11-2019,Banglore,Divorced,Graduate,2,,30,0.3,,Platinum,-1000,Google,,1,10,,0.8
+93,,F,,,,2020/03/22,,single,PG,2,2023-01-15,20,0.5,0.05,gold,,google,,0,,,0.8
+94,30,F,70000,,,2018-07-15,Mumbai,,High School,2,2021/11/10,40,0.1,0.3,Platinum,50000,friend,9876543210,0,15,3.5,0.5
+95,30,M,50k,60,no,2020/03/22,,Divorced,PG,2,15-02-2022,50,0.1,0.3,Gold,80k,,9876543210,no,-3,,
+96,30,M,,80,0,12-11-2019,,Divorced,Graduate,4,15-02-2022,,0.1,0.05,Silver,80k,Facebook,12345,no,20,4.1,0.1
+97,,Male,70000,20,0,2021-05-10,Banglore,Single,PG,1,15-02-2022,50,0.5,0.2,,80k,Google,0000000000,0,10,3.5,1.2
+98,30,Male,-20000,80,1,2018-07-15,Kolkata,single,Post-Graduate,3,2023-01-15,,0.5,0.05,Gold,80k,google,98-76-54,0,15,4.1,
+99,-5,Female,60000,60,no,2021-05-10,Delhi,Single,,,,40,,0.3,gold,70000,,98-76-54,0,-3,-1,0.5
+100,-5,Male,-20000,,1,2021-05-10,Mumbai,Married,High School,3,2023-01-15,30,-0.2,0.2,,-1000,,9876543210,,5,5.2,
+101,30,F,,80,1,2021-05-10,Banglore,Single,,3,2021/11/10,50,0.3,0.2,Silver,-1000,,98-76-54,no,10,-1,
+102,-5,M,50k,,1,,Kolkata,Single,PG,5,15-02-2022,,,0.05,Silver,70000,,9876543210,0,20,5.2,0.5
+103,,Male,45000,70,yes,,Delhi,,High School,1,2023-01-15,30,0.3,0.3,Platinum,,friend,12345,yes,-3,-1,0.8
+104,25,Male,,20,yes,2021-05-10,Delhi,Divorced,PG,5,2023-01-15,20,-0.2,,,,,0000000000,yes,20,,0.8
+105,30,Female,45000,70,1,2018-07-15,Banglore,single,Post-Graduate,1,,,0.5,0.3,Platinum,80k,Google,12345,,5,4.1,0.1
+106,28,female,70000,,no,12-11-2019,kolkata,Single,Graduate,1,,40,-0.2,0.1,Gold,50000,google,,,5,5.2,0.1
+107,28,Female,60000,,0,12-11-2019,Mumbai,single,High School,2,15-02-2022,20,0.5,,,,friend,,1,10,3.5,0.8
+108,30,F,30000,40,no,2020/03/22,Delhi,Single,Post-Graduate,4,2023-01-15,20,-0.2,0.2,Gold,50000,,,1,,4.1,1.2
+109,-5,M,-20000,40,,2018-07-15,Banglore,Married,Post-Graduate,2,2023-01-15,10,,,Platinum,-1000,Instagram,12345,1,5,3.5,
+110,28,Female,60000,70,yes,,Banglore,Single,High School,4,,50,0.7,0.2,,50000,Instagram,98-76-54,,-3,4.1,1.2
+111,30,Male,,120,0,2021-05-10,Kolkata,,PG,5,2023-01-15,,,0.2,Platinum,-1000,google,0000000000,,,4.1,
+112,25,M,45000,70,0,2020/03/22,kolkata,Divorced,Post-Graduate,4,2023-01-15,20,0.3,,,70000,Facebook,,,15,-1,0.8
+113,,M,-20000,40,,12-11-2019,Mumbai,Married,,5,2023-01-15,10,,0.2,Platinum,70000,Facebook,,yes,20,5.2,0.1
+114,,Male,45000,,,,,Single,Post-Graduate,3,,40,0.1,0.2,Silver,80k,friend,,,,5.2,0.1
+115,,Female,50k,60,1,,Kolkata,single,PG,3,15-02-2022,30,0.3,0.1,Platinum,,friend,0000000000,yes,20,4.1,1.2
+116,28,Male,45000,70,yes,2021-05-10,Delhi,Married,PG,4,2021/11/10,,-0.2,0.3,Silver,80k,friend,,1,,,0.1
+117,25,female,50k,,yes,12-11-2019,Delhi,Married,,4,15-02-2022,20,0.3,0.3,Platinum,-1000,Facebook,0000000000,1,15,,0.8
+118,28,M,70000,60,no,2018-07-15,Kolkata,Single,Post-Graduate,5,2021/11/10,50,0.7,0.1,,80k,Instagram,,1,5,3.5,1.2
+119,-5,,-20000,60,1,,Banglore,Married,PG,2,2023-01-15,10,0.5,,,50000,Facebook,12345,0,15,3.5,
+120,28,,-20000,40,1,2021-05-10,Delhi,single,High School,5,15-02-2022,20,-0.2,0.05,,-1000,Google,12345,0,5,-1,0.1
+121,25,F,30000,70,1,2018-07-15,kolkata,Married,Graduate,2,2021/11/10,50,0.3,0.05,gold,70000,,0000000000,no,5,4.1,0.5
+122,25,Male,,80,1,12-11-2019,Mumbai,single,Graduate,3,,20,-0.2,0.05,Gold,,friend,12345,no,20,3.5,0.1
+123,-5,Male,50k,20,yes,,kolkata,Single,Graduate,1,,,-0.2,0.1,,-1000,Instagram,0000000000,no,-3,3.5,
+124,25,F,30000,40,yes,2018-07-15,Delhi,Divorced,Post-Graduate,4,15-02-2022,,-0.2,0.1,Silver,-1000,google,12345,0,15,4.1,1.2
+125,25,F,45000,40,1,2018-07-15,,Married,,2,15-02-2022,,0.5,0.2,,50000,google,12345,0,,-1,
+126,,F,45000,80,no,2018-07-15,Mumbai,Divorced,PG,5,2023-01-15,40,,0.05,gold,,,0000000000,no,15,3.5,0.5
+127,-5,M,30000,20,0,,Mumbai,single,High School,3,15-02-2022,40,-0.2,,Silver,70000,Instagram,98-76-54,no,20,-1,0.8
+128,35,female,-20000,,0,,Kolkata,Married,High School,2,2023-01-15,10,0.1,,gold,-1000,Facebook,12345,,5,5.2,0.1
+129,35,Male,45000,120,no,2020/03/22,Kolkata,,Post-Graduate,5,2023-01-15,,0.7,0.05,Silver,-1000,Facebook,,no,20,-1,1.2
+130,25,M,70000,70,1,12-11-2019,,Divorced,Graduate,4,,50,0.5,0.05,Platinum,50000,Google,98-76-54,,10,,0.8
+131,35,F,70000,120,yes,2021-05-10,Banglore,Married,Post-Graduate,4,,20,0.3,0.05,Gold,80k,Google,0000000000,yes,10,,
+132,35,Male,30000,,0,2018-07-15,Mumbai,Divorced,,,2021/11/10,30,0.5,0.1,Gold,70000,Facebook,98-76-54,0,,-1,1.2
+133,25,M,50k,40,,2020/03/22,,Married,,1,,50,0.3,0.1,gold,,google,9876543210,no,20,,0.8
+134,35,female,50k,20,,2021-05-10,Kolkata,Single,PG,,,40,0.5,0.1,Gold,-1000,friend,9876543210,0,,5.2,1.2
+135,28,M,30000,40,no,2020/03/22,Kolkata,Divorced,PG,3,15-02-2022,40,0.3,0.3,gold,-1000,google,12345,0,,4.1,0.5
+136,30,female,50k,60,1,,Mumbai,,,2,,50,-0.2,,gold,70000,Google,12345,0,10,,0.5
+137,-5,F,-20000,40,0,2018-07-15,kolkata,,,3,2021/11/10,40,,,gold,80k,,,yes,,,0.1
+138,30,female,-20000,40,1,2021-05-10,Delhi,single,,5,15-02-2022,,0.3,0.2,Gold,-1000,Facebook,98-76-54,1,10,-1,0.1
+139,25,Male,50k,,0,2021-05-10,Kolkata,Married,Post-Graduate,4,2021/11/10,10,0.3,0.1,gold,70000,Google,9876543210,no,5,5.2,0.5
+140,,F,70000,,no,2021-05-10,Banglore,Divorced,,,,20,0.1,0.3,Gold,50000,Google,12345,1,20,4.1,1.2
+141,-5,Male,50k,,no,2021-05-10,Banglore,single,High School,,2021/11/10,10,0.3,0.3,gold,80k,friend,98-76-54,1,,-1,0.5
+142,25,,-20000,120,,2021-05-10,Kolkata,Divorced,Graduate,,15-02-2022,20,0.1,,,,Facebook,12345,1,10,-1,0.1
+143,,Female,60000,60,1,2020/03/22,kolkata,Married,,3,2023-01-15,20,0.7,0.1,gold,-1000,friend,12345,0,15,5.2,0.5
+144,30,female,,,,2018-07-15,kolkata,,Graduate,4,2021/11/10,10,-0.2,0.2,Silver,70000,Facebook,9876543210,,,4.1,0.5
+145,25,Female,45000,20,1,,,Single,Post-Graduate,2,2021/11/10,50,0.1,0.1,gold,50000,friend,9876543210,0,-3,5.2,1.2
+146,-5,Female,60000,120,,,Banglore,,Graduate,5,15-02-2022,20,,0.05,Platinum,,google,12345,0,5,4.1,0.8
+147,-5,female,50k,80,yes,,,single,Post-Graduate,2,15-02-2022,10,-0.2,0.1,gold,70000,,0000000000,1,5,5.2,0.1
+148,30,F,70000,20,yes,,Banglore,Single,High School,3,2021/11/10,20,0.1,0.05,Silver,70000,,12345,0,15,-1,1.2
+149,28,,30000,70,yes,2020/03/22,Delhi,single,Post-Graduate,5,,30,-0.2,0.05,Silver,,Facebook,12345,1,10,-1,0.5
+150,35,Male,50k,70,yes,12-11-2019,Delhi,Married,Post-Graduate,,2021/11/10,50,-0.2,0.2,Gold,50000,Instagram,,,,3.5,0.5
+151,,M,70000,20,0,2018-07-15,Mumbai,Single,PG,1,15-02-2022,,-0.2,,,50000,Google,,no,10,,0.8
+152,30,Male,,,yes,2021-05-10,,single,,3,2023-01-15,20,0.7,0.1,gold,80k,Google,,1,5,5.2,0.1
+153,35,M,50k,80,no,12-11-2019,Kolkata,Married,,3,2023-01-15,30,,0.05,Gold,-1000,Facebook,0000000000,,10,3.5,0.1
+154,35,Male,-20000,80,no,,,,High School,4,,,0.5,0.1,,,friend,0000000000,no,5,,
+155,25,female,30000,120,0,12-11-2019,Kolkata,Married,High School,2,2021/11/10,,0.5,,gold,,Instagram,12345,yes,10,5.2,0.1
+156,35,,70000,80,yes,2018-07-15,kolkata,Divorced,,3,2023-01-15,20,0.1,,Platinum,,google,,1,15,4.1,0.8
+157,28,M,70000,70,yes,2021-05-10,,Married,PG,3,2021/11/10,10,-0.2,0.3,gold,50000,friend,0000000000,1,20,,
+158,-5,F,70000,60,yes,2021-05-10,kolkata,Married,,,15-02-2022,20,0.1,,Silver,-1000,friend,9876543210,yes,15,-1,
+159,30,Male,,,,2018-07-15,Delhi,Divorced,PG,,2023-01-15,30,0.7,0.2,Silver,80k,Facebook,12345,yes,15,3.5,0.5
+160,35,Male,50k,80,1,2018-07-15,Delhi,single,High School,5,,,0.7,0.05,Platinum,70000,Facebook,98-76-54,1,20,,0.5
+161,25,M,,120,,,Mumbai,single,Graduate,1,15-02-2022,20,0.3,0.3,Gold,70000,Google,12345,yes,20,,0.1
+162,28,F,45000,70,1,2021-05-10,,Married,High School,4,,10,0.7,0.2,,,Facebook,98-76-54,0,,-1,
+163,30,F,45000,60,yes,12-11-2019,kolkata,Divorced,High School,1,15-02-2022,20,0.3,0.1,gold,-1000,Facebook,,no,,5.2,0.5
+164,-5,female,50k,40,yes,2020/03/22,Kolkata,Divorced,Post-Graduate,5,2023-01-15,50,,0.05,Silver,50000,Facebook,98-76-54,no,15,4.1,0.8
+165,-5,female,-20000,40,,2020/03/22,Delhi,,Post-Graduate,,,10,0.1,,Gold,-1000,Google,,no,15,-1,0.5
+166,30,female,,60,,2018-07-15,Delhi,single,Post-Graduate,2,,30,,0.05,Platinum,-1000,google,9876543210,0,5,4.1,0.5
+167,-5,female,30000,70,1,,Kolkata,Single,Post-Graduate,,15-02-2022,,0.7,0.1,Silver,50000,google,98-76-54,yes,5,5.2,
+168,35,female,70000,120,no,2020/03/22,kolkata,single,PG,4,,20,,0.3,Platinum,,Facebook,12345,,,,
+169,25,female,70000,60,1,2021-05-10,kolkata,single,,,15-02-2022,10,,0.3,gold,-1000,Google,,yes,-3,4.1,1.2
+170,-5,,50k,,,2018-07-15,,,Graduate,4,15-02-2022,50,,0.3,,70000,google,12345,1,-3,3.5,0.8
+171,-5,F,-20000,,,12-11-2019,,Single,High School,4,15-02-2022,10,0.7,,Silver,50000,friend,0000000000,no,,3.5,
+172,30,female,45000,40,0,2018-07-15,Banglore,,PG,4,15-02-2022,40,-0.2,0.2,Silver,80k,google,,yes,5,-1,0.1
+173,30,F,45000,80,,12-11-2019,Banglore,Single,Graduate,5,2023-01-15,50,,0.2,gold,,google,98-76-54,,5,5.2,0.8
+174,,F,70000,120,0,2018-07-15,Mumbai,Married,PG,4,15-02-2022,30,0.3,0.05,Gold,50000,Google,,1,-3,-1,0.8
+175,28,Female,50k,40,no,2018-07-15,Delhi,Single,PG,4,2021/11/10,,0.7,,,80k,friend,12345,0,10,-1,
+176,35,,,80,1,2018-07-15,,,High School,2,,30,,0.3,Silver,80k,Google,9876543210,0,10,-1,0.8
+177,-5,female,45000,80,1,12-11-2019,kolkata,single,,1,2021/11/10,20,-0.2,0.3,,-1000,Facebook,,,5,3.5,
+178,-5,Male,,,0,12-11-2019,Kolkata,Single,Post-Graduate,3,2023-01-15,10,0.7,0.1,Silver,-1000,,98-76-54,1,10,3.5,0.5
+179,25,M,-20000,70,1,2018-07-15,kolkata,Single,,1,2021/11/10,40,0.5,0.1,,-1000,google,0000000000,no,20,-1,1.2
+180,,Male,45000,20,,2020/03/22,Delhi,Divorced,High School,4,,50,-0.2,0.3,Platinum,50000,,9876543210,yes,,3.5,0.5
+181,28,,45000,70,yes,,Banglore,single,High School,2,2021/11/10,50,0.3,0.3,Silver,50000,Google,0000000000,1,,5.2,
+182,,M,60000,20,0,,kolkata,Married,High School,,2023-01-15,10,,,,,Google,,0,5,-1,
+183,30,,45000,60,1,,Mumbai,,Graduate,2,15-02-2022,40,0.5,0.2,Gold,-1000,Google,12345,,15,3.5,0.5
+184,28,F,30000,,0,12-11-2019,Delhi,Married,,4,2021/11/10,10,0.5,0.1,Platinum,80k,,12345,,-3,4.1,0.1
+185,-5,M,50k,80,0,12-11-2019,Banglore,single,,2,2023-01-15,20,0.7,0.2,Platinum,70000,Google,98-76-54,yes,5,-1,0.1
+186,-5,F,50k,120,yes,2020/03/22,Kolkata,Single,PG,2,2023-01-15,30,0.5,,Gold,,Facebook,12345,,10,-1,0.1
+187,28,Male,,20,,,Banglore,Single,PG,4,,50,0.3,0.3,,50000,Google,9876543210,,-3,5.2,
+188,-5,Male,-20000,70,0,,Mumbai,single,PG,5,,20,0.3,0.2,gold,,Instagram,12345,1,15,,0.8
+189,35,M,45000,80,1,2018-07-15,Delhi,Single,High School,2,2021/11/10,30,0.1,0.3,Gold,,,98-76-54,no,10,,
+190,28,M,30000,20,no,12-11-2019,Kolkata,Single,,3,15-02-2022,20,0.3,0.3,,,Instagram,,yes,20,5.2,0.8
+191,,female,,20,0,,Mumbai,Single,High School,3,2023-01-15,40,-0.2,0.05,Gold,,Google,,1,10,5.2,0.5
+192,28,,60000,20,0,2020/03/22,Banglore,,Graduate,2,2021/11/10,50,0.5,0.2,Gold,70000,Facebook,12345,no,20,5.2,1.2
+193,-5,female,,120,yes,2020/03/22,Mumbai,,PG,5,2023-01-15,10,0.3,0.2,Silver,-1000,google,0000000000,1,-3,,0.8
+194,35,,,,,,Delhi,Divorced,High School,,2023-01-15,10,0.7,0.3,,80k,friend,,1,20,5.2,0.1
+195,35,female,45000,120,no,12-11-2019,,Married,High School,4,15-02-2022,30,0.1,,gold,,friend,12345,,-3,3.5,
+196,30,F,60000,40,1,2020/03/22,Mumbai,single,Graduate,3,15-02-2022,,0.5,0.05,Silver,,Google,98-76-54,no,-3,-1,0.5
+197,,M,,80,no,2018-07-15,Mumbai,single,Post-Graduate,,2021/11/10,40,0.1,0.3,Gold,,Facebook,12345,yes,-3,-1,0.1
+198,30,Male,30000,,1,2020/03/22,Banglore,single,,2,15-02-2022,30,0.5,0.1,Gold,-1000,,,yes,-3,4.1,0.5
+199,30,,30000,,,2021-05-10,Banglore,Divorced,Post-Graduate,,15-02-2022,,0.7,0.1,Gold,50000,Instagram,98-76-54,no,-3,4.1,1.2
+200,28,,50k,,1,2021-05-10,Kolkata,,PG,1,2021/11/10,20,0.1,0.05,,50000,Instagram,12345,,10,-1,
